@@ -1,3 +1,5 @@
+/*Finding maximum and minimum elements in an Integer array using Divide and Conquer method in Java */
+
 import java.util.Scanner;
 
 public class MaxMinDC {
